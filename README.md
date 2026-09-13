@@ -15,9 +15,8 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 <!-- Losowy cytat z Twojego pliku JSON -->
 ### 💬 Random Quote
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/ZephyrProtogen/ZephyrProtogen/main/quotes.json&theme=dark&v=1" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?quotesUrl=https://raw.githubusercontent.com/ZephyrProtogen/ZephyrProtogen/main/quotes.json&theme=dark" alt="Quote" />
 </p>
-
 ---
 
 ### 🛠️ Languages & Frameworks
