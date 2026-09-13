@@ -1,4 +1,7 @@
-# Hi, I'm Zephyr 🗿
+<!-- Animowany nagłówek maszynowy -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Zephyr+%F0%9F%97%BF;Game+Dev+%26+Software+Developer;Working+on+Lithos...;Coding+by+day%2C+3D+sculpting+by+night!" alt="Typing SVG" />
+</p>
 
 I write code, build licensed apps, model 3D stuff, and develop indie games.  
 Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The Binding of Isaac*.
@@ -7,7 +10,13 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 - 🎨 **Creative:** 3D Modeling (Blender), Game Dev (Godot)
 - 💻 **Current Focus:** *Lithos* & desktop tools
 
-> *Coding logic by day, sculpting 3D worlds by night.* 🛠️
+---
+
+<!-- Losowy cytat z Twojego pliku JSON -->
+### 💬 Random Quote
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/ZephyrProtogen/ZephyrProtogen/main/quotes.json&theme=dark" alt="Quote" />
+</p>
 
 ---
 
@@ -36,10 +45,33 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 
 ---
 
-### 📊 Stats
+<!-- Statystyki 3D Contribution Graph -->
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://github-readme-3d-contrib.a3rt.io/u/ZephyrProtogen" alt="3D Contribution Graph" />
+</p>
+
+---
+
+<!-- Statystyki GitHub + WakaTime -->
+### 📊 Stats & Coding Time
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=ZephyrProtogen&show_icons=true&theme=dark&hide_border=true" width="400" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZephyrProtogen&layout=compact&theme=dark&hide_border=true" width="350" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=ZephyrProtogen&theme=dark&hide_border=true&layout=compact" width="400" />
+</p>
+
+---
+
+<!-- Spotify Now Playing -->
+### 🎵 Now Playing on Spotify
+<p align="left">
+  <a href="https://spotify-github-profile.vercel.app/api/spotify-link">
+    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" />
+  </a>
 </p>
 
 ---
