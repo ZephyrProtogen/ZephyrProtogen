@@ -12,10 +12,10 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 
 ---
 
-<!-- Losowy cytat z Twojego pliku JSON -->
+<!-- Losowy cytat z Twojego pliku JSON (Obsługuje polskie znaki) -->
 ### 💬 Random Quote
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/ZephyrProtogen/ZephyrProtogen/main/quotes.json&theme=dark" alt="Quote" />
+  <img src="https://readme-quotes-api.vercel.app/api?quotesUrl=https://raw.githubusercontent.com/ZephyrProtogen/ZephyrProtogen/main/quotes.json&theme=dark" alt="Quote" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=ZephyrProtogen&show_icons=true&theme=dark&hide_border=true" width="400" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZephyrProtogen&layout=compact&theme=dark&hide_border=true" width="350" />
