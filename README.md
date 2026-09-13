@@ -45,34 +45,10 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 
 ---
 
-<!-- Statystyki 3D Contribution Graph -->
-<!-- Statystyki 3D Contribution Graph -->
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ZephyrProtogen&theme=dark" alt="3D Contribution Graph" />
-</p>
-
----
-
-<!-- Statystyki GitHub + WakaTime -->
-### 📊 Stats & Coding Time
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=ZephyrProtogen&show_icons=true&theme=dark&hide_border=true" width="400" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZephyrProtogen&layout=compact&theme=dark&hide_border=true" width="350" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=ZephyrProtogen&theme=dark&hide_border=true&layout=compact" width="400" />
-</p>
-
----
-
-<!-- Spotify Now Playing -->
-### 🎵 Now Playing on Spotify
-<p align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/spotify-link">
-    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" />
-  </a>
 </p>
 
 ---
