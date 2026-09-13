@@ -46,9 +46,10 @@ Currently grinding on **Lithos** — a custom roguelike heavily inspired by *The
 ---
 
 <!-- Statystyki 3D Contribution Graph -->
+<!-- Statystyki 3D Contribution Graph -->
 ### 🧊 3D Contribution Graph
 <p align="center">
-  <img src="https://github-readme-3d-contrib.a3rt.io/u/ZephyrProtogen" alt="3D Contribution Graph" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ZephyrProtogen&theme=dark" alt="3D Contribution Graph" />
 </p>
 
 ---
