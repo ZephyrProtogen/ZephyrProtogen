@@ -7,9 +7,8 @@
 
   <!-- CYTATY -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=550&lines=%22Wczoraj+dzia%C5%82a%C5%82o.%22+%E2%80%94+Zephyr;%22Brak+wyciek%C3%B3w+pami%C4%99ci+to+nie+cel%2C+to+przypadek.%22+%E2%80%94+Zephyr;%22Wszystko+dzia%C5%82a%2C+p%C3%B3ki+nie+wci%C5%9Bniesz+Play.%22+%E2%80%94+Zephyr" alt="Quotes" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=750&lines=%22Wczoraj+dzia%C5%82a%C5%82o.%22;%22Balans+rozgrywki+polega+na+tym%2C+%C5%BCe+i+gracz%2C+i+developer+cierpi%C4%85+po+r%C3%B3wno.%22;%22Domy%C5%9Blny+sze%C5%9Bcian+z+Blendera+zgin%C4%85%C5%82+%C5%9Bmierci%C4%85+tragiczn%C4%85+4+sekundy+po+starcie+projektu.%22" alt="Quotes" />
   </p>
-
   <!-- LINKI / SOCIALE -->
   <p>
     <a href="https://paypal.me/ZephyrJK" target="_blank">
