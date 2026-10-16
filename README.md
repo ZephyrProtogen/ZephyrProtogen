@@ -47,20 +47,19 @@ Software developer and indie game creator focused on performance-oriented progra
 
 ---
 
-<!-- 
+
 ====================================================================
-SEKCJA NA CERTYFIKATY (Usuń znaczniki komentarza <!-- oraz --> gdy będziesz chciał ją włączyć)
+SEKCJA NA CERTYFIKATY 
 ====================================================================
 
 ### `~/certifications`
 
 | Certification | Issuer | Year | Credential |
 | :--- | :--- | :--- | :--- |
-| **Nazwa Certyfikatu (np. C# Foundations)** | Microsoft / freeCodeCamp | 2026 | [Verify ↗](https://link-do-certyfikatu.pl) |
-| **Drugi Certyfikat** | Nazwa Wystawcy | 2026 | [Verify ↗](https://link-do-certyfikatu.pl) |
+| **Accelerate AI-assisted development by using GitHub Copilot** | Microsoft | 2026 | [Verify ↗]([https://link-do-certyfikatu.pl](https://learn.microsoft.com/api/credentials/share/pl-pl/JakubKlimczak-9290/5A4CB795FD671487?sharingId=805DE05496F6252F)) |
+<!-- **Drugi Certyfikat** | Nazwa Wystawcy | 2026 | [Verify ↗](https://link-do-certyfikatu.pl) |-->
 
----
--->
+
 
 ### `~/github-metrics`
 
