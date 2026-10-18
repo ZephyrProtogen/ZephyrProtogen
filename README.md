@@ -62,7 +62,7 @@ Software developer and indie game creator focused on performance-oriented progra
 
 
 ---
-<img src="[https://github-readme-stats.shion.dev/api?username=ZephyrProtogen&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9](https://github-rpg-card.github-rpg-card.workers.dev/?username=ZephyrProtogen&theme=cyberpunk)" height="165" alt="GitHub Stats" />
+![GitHub RPG Card](https://github-rpg-card.github-rpg-card.workers.dev/?username=ZephyrProtogen&theme=cyberpunk&v=1)
 ### `~/github-metrics`
 
 <div align="center">
