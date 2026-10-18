@@ -62,7 +62,10 @@ Software developer and indie game creator focused on performance-oriented progra
 
 
 ---
-![GitHub RPG Card](https://github-rpg-card.github-rpg-card.workers.dev/?username=ZephyrProtogen&theme=cyberpunk&v=1)
+<div align="center">
+  <img src="https://github-rpg-card.github-rpg-card.workers.dev/?username=ZephyrProtogen&theme=cyberpunk&v=2" alt="GitHub RPG Card" />
+</div>
+<br>
 ### `~/github-metrics`
 
 <div align="center">
